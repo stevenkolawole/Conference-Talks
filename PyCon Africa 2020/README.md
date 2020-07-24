@@ -9,7 +9,7 @@ Python Scripts made use of also are in  this folder.
 
 `https://github.com/streamlit/demo-self-driving`
 
-- Housing Rent Pricing App
+- Housing Rent Pricing App by *Ibijola Olabode*
 
 `https://thawing-tor-30357.herokuapp.com/`
 
