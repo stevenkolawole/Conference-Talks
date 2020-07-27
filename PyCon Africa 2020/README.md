@@ -7,7 +7,7 @@ Python Scripts made use of also are in  this folder.
 
 - Udacity Self-driving Demo App by ***the Streamlit Team***
 
-`https://github.com/streamlit/demo-self-driving`
+'https://github.com/streamlit/demo-self-driving'
 
 - Housing Rent Pricing App by ***Ibijola Olabode***
 
