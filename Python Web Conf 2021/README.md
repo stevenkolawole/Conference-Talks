@@ -7,11 +7,11 @@ Python Scripts made use of also are in this folder.
 
 **Misc. links:**
 
-- Udacity Self-driving Demo App by the Streamlit Team
+- Udacity Self-driving Demo App by **the Streamlit Team**
 
 https://github.com/streamlit/demo-self-driving
 
-- Housing Rent Pricing App by *Moyosola*
+- Housing Rent Pricing App by **Moyosola**
 
 https://thawing-tor-30357.herokuapp.com/
 
